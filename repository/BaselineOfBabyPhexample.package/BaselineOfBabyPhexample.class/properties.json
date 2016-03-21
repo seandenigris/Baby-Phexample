@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBabyPhexample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBabyPhexample",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
