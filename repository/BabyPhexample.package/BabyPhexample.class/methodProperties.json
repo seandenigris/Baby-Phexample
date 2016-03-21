@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"isAbstract" : "SeanDeNigris 12/2/2013 12:26" },
+	"instance" : {
+		"afterPerformTest" : "SeanDeNigris 12/2/2013 12:21",
+		"initialize" : "SeanDeNigris 12/2/2013 12:22",
+		"performTest" : "SeanDeNigris 12/2/2013 12:21" } }

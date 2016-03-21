@@ -1,0 +1,16 @@
+{
+	"category" : "BabyPhexample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context",
+		"anything",
+		"anyArgument" ],
+	"name" : "BabyPhexample",
+	"pools" : [
+		 ],
+	"super" : "Phexample",
+	"type" : "normal" }
