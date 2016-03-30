@@ -7,12 +7,12 @@ baseline: spec
 			project: 'BabyMock' with: [
 				spec
 					className: #ConfigurationOfBabyMock;
-					versionString: '1.2';
+					versionString: #'stable';
 					repository: 'http://smalltalkhub.com/mc/zeroflag/BabyMock/main/' ];
 			project: 'Phexample' with: [
 				spec
 					className: #ConfigurationOfPhexample;
-					versionString: '1.2';
+					versionString: #'stable';
 					repository: 'http://smalltalkhub.com/mc/Phexample/Phexample/main/' ].
 		spec package: #BabyPhexample with: [
 				spec requires: #('BabyMock' 'Phexample' ). ]. ].
