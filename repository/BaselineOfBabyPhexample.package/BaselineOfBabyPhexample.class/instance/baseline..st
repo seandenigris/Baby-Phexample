@@ -12,7 +12,7 @@ baseline: spec
 			project: 'Phexample' with: [
 				spec
 					className: #ConfigurationOfPhexample;
-					versionString: '2.0';
+					versionString: '1.2';
 					repository: 'http://smalltalkhub.com/mc/Phexample/Phexample/main/' ].
 		spec package: #BabyPhexample with: [
 				spec requires: #('BabyMock' 'Phexample' ). ]. ].
