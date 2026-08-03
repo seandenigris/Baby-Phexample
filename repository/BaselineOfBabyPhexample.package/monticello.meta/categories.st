@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfBabyPhexample!
+self packageOrganizer ensurePackage: #BaselineOfBabyPhexample withTags: #()!
